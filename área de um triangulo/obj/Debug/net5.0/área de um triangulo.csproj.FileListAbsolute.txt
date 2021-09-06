@@ -1,0 +1,16 @@
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\bin\Debug\net5.0\área de um triangulo.exe
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\bin\Debug\net5.0\área de um triangulo.deps.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\bin\Debug\net5.0\área de um triangulo.runtimeconfig.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\bin\Debug\net5.0\área de um triangulo.runtimeconfig.dev.json
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\bin\Debug\net5.0\área de um triangulo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\bin\Debug\net5.0\ref\área de um triangulo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\bin\Debug\net5.0\área de um triangulo.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\obj\Debug\net5.0\área de um triangulo.csproj.AssemblyReference.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\obj\Debug\net5.0\área de um triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\obj\Debug\net5.0\área de um triangulo.AssemblyInfoInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\obj\Debug\net5.0\área de um triangulo.AssemblyInfo.cs
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\obj\Debug\net5.0\área de um triangulo.csproj.CoreCompileInputs.cache
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\obj\Debug\net5.0\área de um triangulo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\obj\Debug\net5.0\ref\área de um triangulo.dll
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\obj\Debug\net5.0\área de um triangulo.pdb
+C:\Users\davio\OneDrive\Documentos\projetos vscode\c#\área de um triangulo\obj\Debug\net5.0\área de um triangulo.genruntimeconfig.cache
